@@ -24,8 +24,8 @@ This plugin will allow you to easily add your products from ShopLocket to any pa
 **Great Support**
 
 * You’ve got questions? We’ve got answers.
-* Telephone support (1-855-885-7675) and email support (help@shoplocket.com) as well as live chat on our website
-* Tutorial videos (www.youtube.com/user/ShopLocket/videos)
+* Telephone support (1-855-885-7675) and email support (<a href="mailto:help@shoplocket.com">help@shoplocket.com</a>) as well as live chat on our website
+* <a href="http://www.youtube.com/user/ShopLocket/videos">Tutorial videos</a>
 * Comprehensive help section (http://help.shoplocket.com/)
 
 **No upfront costs or monthly fees**
