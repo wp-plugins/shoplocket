@@ -4,7 +4,7 @@
  * Plugin URI: http://shoplocket.com
  * Description: Sell your products straight from your site.
  * Author: Randy Hoyt, Mohammad Jangda, ShopLocket
- * Version: 0.1
+ * Version: 0.2
  * Author URI: http://shoplocket.com
  * Text Domain: shoplocket
  * Domain Path: /languages
